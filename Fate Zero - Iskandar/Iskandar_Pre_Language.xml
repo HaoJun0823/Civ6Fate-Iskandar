@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Iskandar_Pre_Language -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 2019/1/31 13:12:29 -->
+<GameData>
+	<LocalizedText>
+
+		<Row Tag="LOC_LEADER_FATE_ALEXANDER_NAME" Language="zh_Hans_CN">
+			<Text>伊斯坎达尔</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_NAME" Language="zh_Hans_CN">
+			<Text>韦伯·维尔维特</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>天才军师，擅长所有工作。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FATE_ALEXANDER_KING_NAME" Language="zh_Hans_CN">
+			<Text>王之军势</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FATE_ALEXANDER_KING_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>所有单位具有双倍经验。[NEWLINE]会得到一名特殊总督。</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_ALEXANDER_NAME" Language="zh_Hant_HK">
+			<Text>伊斯坎達爾</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_NAME" Language="zh_Hant_HK">
+			<Text>韋伯·維爾維特</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>天才軍師，擅長所有工作。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FATE_ALEXANDER_KING_NAME" Language="zh_Hant_HK">
+			<Text>王之軍勢</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FATE_ALEXANDER_KING_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>所有單位具有雙倍經驗。 [NEWLINE]會得到一名特殊總督。 </Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_ALEXANDER_NAME" Language="en_US">
+			<Text>Iskandar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_NAME" Language="en_US">
+			<Text>Waver Velvet</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_DESCRIPTION" Language="en_US">
+			<Text>Genius military division, good at all work.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FATE_ALEXANDER_KING_NAME" Language="en_US">
+			<Text>Ionioi Hetairoi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FATE_ALEXANDER_KING_DESCRIPTION" Language="en_US">
+			<Text> All units have double experience. [NEWLINE] Will get a special governor. </Text>
+		</Row>
+		
+	</LocalizedText>
+</GameData>

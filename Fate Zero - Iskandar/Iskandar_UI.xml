@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Iskandar_UI -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 2019/1/31 13:12:48 -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_LEADER_FATE_ALEXANDER_PRIMARY</Type>
+			<Color>179,0,0,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_LEADER_FATE_ALEXANDER_SECONDARY</Type>
+			<Color>229,179,72,255</Color>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_FATE_ALEXANDER</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_LEADER_FATE_ALEXANDER_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_LEADER_FATE_ALEXANDER_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_RED_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<LoadingInfo>
+		<Row LeaderType="LEADER_FATE_ALEXANDER" ForegroundImage="LEADER_FATE_ALEXANDER_NEUTRAL_2" BackgroundImage="LEADER_FATE_ALEXANDER_BACKGROUND_LOAD" PlayDawnOfManAudio="1"/>
+	</LoadingInfo>
+	<DiplomacyInfo>
+		<Row Type="LEADER_FATE_ALEXANDER" BackgroundImage="LEADER_FATE_ALEXANDER_BACKGROUND"/>
+	</DiplomacyInfo>
+
+	<MomentIllustrations>
+
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_GOVERNOR" MomentDataType="MOMENT_DATA_GOVERNOR" GameDataType="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II" Texture="Moment_alexander_ei_melloi_ii.dds"/>
+		
+		
+	</MomentIllustrations>
+	
+	
+	
+	</GameData>

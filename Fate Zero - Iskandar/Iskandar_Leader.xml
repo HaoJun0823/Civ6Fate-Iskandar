@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Iskandar_Leader -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 2019/1/31 13:04:42 -->
+<GameData>
+	<Types>
+		<Row Type="LEADER_FATE_ALEXANDER" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_FATE_ALEXANDER_KING" Kind="KIND_TRAIT"/>
+	</Types>
+
+
+	<Leaders>
+		<Row LeaderType="LEADER_FATE_ALEXANDER" Name="LOC_LEADER_FATE_ALEXANDER_NAME" InheritFrom="LEADER_DEFAULT" SceneLayers="4" Sex="Male"/>
+	</Leaders>
+
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_FATE_ALEXANDER" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_FATE_ALEXANDER_QUOTE" QuoteAudio="MACE_AL_MISC_PEP_TALK_D"/>
+	</LeaderQuotes>
+
+
+	<Traits>
+		<Row TraitType="TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II" NAME="LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_NAME" Description="LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_DESCRIPTION"/>
+		<Row TraitType="TRAIT_FATE_ALEXANDER_KING" NAME="LOC_TRAIT_FATE_ALEXANDER_KING_NAME" Description="LOC_TRAIT_FATE_ALEXANDER_KING_DESCRIPTION"/>
+	</Traits>
+
+	<LeaderTraits>
+		<Row LeaderType="LEADER_FATE_ALEXANDER" TraitType="TRAIT_LEADER_TO_WORLDS_END"/>
+		<Row LeaderType="LEADER_FATE_ALEXANDER" TraitType="TRAIT_LEADER_UNIT_HETAIROI"/>
+		<Row LeaderType="LEADER_FATE_ALEXANDER" TraitType="TRAIT_LEADER_LOW_RELIGIOUS_PREFERENCE"/>
+		<Row LeaderType="LEADER_FATE_ALEXANDER" TraitType="TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II"/>
+		<Row LeaderType="LEADER_FATE_ALEXANDER" TraitType="TRAIT_FATE_ALEXANDER_KING"/>
+	</LeaderTraits>
+
+
+
+	<HistoricalAgendas>
+		<Row LeaderType="LEADER_FATE_ALEXANDER" AgendaType="AGENDA_SHORT_LIFE_GLORY"/>
+	</HistoricalAgendas>
+
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_MACEDON" LeaderType="LEADER_FATE_ALEXANDER" CapitalName="LOC_CITY_NAME_PELLA"/>
+	</CivilizationLeaders>
+</GameData>

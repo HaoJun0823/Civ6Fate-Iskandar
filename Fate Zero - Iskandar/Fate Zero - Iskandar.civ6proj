@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Fate Zero - Iskandar</Name>
+    <Guid>c1270898-b9eb-465f-b5c8-4b114aba9a1c</Guid>
+    <ProjectGuid>2e720f90-70ed-4ffa-a546-87f682a42ead</ProjectGuid>
+    <ModVersion>3</ModVersion>
+    <Teaser>Army of the King!</Teaser>
+    <Description>Support language:English,Simplified Chinese,Traditional Chinese.[NEWLINE][NEWLINE]Note: This character comes from TYPE-MOON's Fate/Zero, which has nothing to do with Astolfo in history.[NEWLINE][NEWLINE]If you find any bugs or errors, please let me know in time, I will fix it, thank you!</Description>
+    <Authors>Randerion</Authors>
+    <SpecialThanks>All players, modders and TYPE-MOON.</SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <AssemblyName>Fate Zero - Iskandar</AssemblyName>
+    <RootNamespace>Fate Zero - Iskandar</RootNamespace>
+    <AssociationData><![CDATA[<Associations>
+  <Dependency type="Dlc" title="DLC: Persia and Macedon Civilization Pack" id="E2749E9A-8056-45CD-901B-C368C8E83DEB" />
+</Associations>]]></AssociationData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="IskandarData"><File>Iskandar_Leader.xml</File><File>Iskandar_Governors.xml</File><File>Iskandar_UI.xml</File></UpdateDatabase><UpdateDatabase id="IskandarSQL"><Properties><LoadOrder>999</LoadOrder></Properties><File>Iskandar_Governors.sql</File></UpdateDatabase><UpdateArt id="IskandarArt"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateIcons id="IskandarIcon"><File>Iskandar_Icon.xml</File></UpdateIcons><UpdateText id="IskandarText"><File>Iskandar_In_Language.xml</File><File>Iskandar_Pre_Language.xml</File></UpdateText></InGameActions>]]></InGameActionData>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="IskandarData"><File>Iskandar_Config.xml</File></UpdateDatabase><UpdateArt id="IskandarArt"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateIcons id="IskandarIcon"><File>Iskandar_Icon.xml</File></UpdateIcons><UpdateText id="IskandarText"><File>Iskandar_Pre_Language.xml</File></UpdateText></FrontEndActions>]]></FrontEndActionData>
+    <Homepage>https://steamcommunity.com/id/HaoJun0823/</Homepage>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Mod.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Iskandar_Config.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Iskandar_Governors.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Iskandar_Governors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Iskandar_Icon.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Iskandar_In_Language.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Iskandar_Leader.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Iskandar_Pre_Language.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Iskandar_UI.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

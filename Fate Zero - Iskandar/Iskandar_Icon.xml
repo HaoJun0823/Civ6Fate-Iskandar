@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Iskandar_Icon -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 2019/1/31 13:12:58 -->
+<GameData>
+	<IconTextureAtlases>
+	<Row Name="ICON_ATLAS_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_ORIGINAL32.dds"/>
+	<Row Name="ICON_ATLAS_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_ORIGINAL64.dds"/>
+
+	<Row Name="ICON_ATLAS_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_FILL" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_ORIGINAL32.dds"/>
+	<Row Name="ICON_ATLAS_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SLOT" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_BLACK32.dds"/>
+
+	<Row Name="ICON_ATLAS_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_FILL" Baseline="6" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_ORIGINAL22.dds"/>
+	<Row Name="ICON_ATLAS_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SLOT" Baseline="6" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_BLACK22.dds"/>
+
+
+	<Row Name="ICON_ATLAS_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_PROMOTIONS" IconSize="24" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_YELLOW24.dds"/>
+
+
+
+		<Row Name="ICON_FATE_ALEXANDER_ATLAS" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="LEADER_FATE_ALEXANDER_32"/>
+		<Row Name="ICON_FATE_ALEXANDER_ATLAS" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="LEADER_FATE_ALEXANDER_45"/>
+		<Row Name="ICON_FATE_ALEXANDER_ATLAS" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="LEADER_FATE_ALEXANDER_48"/>
+		<Row Name="ICON_FATE_ALEXANDER_ATLAS" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="LEADER_FATE_ALEXANDER_50"/>
+		<Row Name="ICON_FATE_ALEXANDER_ATLAS" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="LEADER_FATE_ALEXANDER_55"/>
+		<Row Name="ICON_FATE_ALEXANDER_ATLAS" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="LEADER_FATE_ALEXANDER_64"/>
+		<Row Name="ICON_FATE_ALEXANDER_ATLAS" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="LEADER_FATE_ALEXANDER_80"/>
+		<Row Name="ICON_FATE_ALEXANDER_ATLAS" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="LEADER_FATE_ALEXANDER_256"/>
+
+		<Row Name="ICON_FATE_ALEXANDER_ATLAS_CIV" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="LEADER_FATE_ALEXANDER_CIV_45"/>
+	
+	
+	
+	
+	</IconTextureAtlases>
+	
+
+	<IconDefinitions>
+
+
+		<Row Name="ICON_FATE_ALEXANDER_CIV"          Atlas="ICON_FATE_ALEXANDER_ATLAS_CIV" Index="0"/>
+
+		<Row Name="ICON_LEADER_FATE_ALEXANDER"          Atlas="ICON_FATE_ALEXANDER_ATLAS" Index="0"/>
+
+		<Row Name="ICON_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II"          Atlas="ICON_ATLAS_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II" Index="0"/>
+		<Row Name="ICON_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_FILL"          Atlas="ICON_ATLAS_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_FILL" Index="0"/>
+		<Row Name="ICON_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SLOT"          Atlas="ICON_ATLAS_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SLOT" Index="0"/>
+		<Row Name="ICON_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_PROMOTION"               Atlas="ICON_ATLAS_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_PROMOTIONS" Index="0"/>
+		
+		
+	</IconDefinitions>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<IconAliases>
+
+
+		<Row Name="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SLOT"         OtherName="ICON_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SLOT"         />
+		<Row Name="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_FILL"         OtherName="ICON_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_FILL"         />
+
+
+	</IconAliases>
+
+
+</GameData>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Iskandar_In_Language -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 2019/1/31 13:12:39 -->
+<GameData>
+
+	<LocalizedText>
+
+
+		<Row Tag="LOC_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_NAME" Language="zh_Hans_CN">
+			<Text>{LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SELECTED_TITLE" Language="zh_Hans_CN">
+			<Text>{LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SELECTED_SHORT_TITLE" Language="zh_Hans_CN">
+			<Text>天才军师</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SELECTED_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>{LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_DEFENDER_NAME" Language="zh_Hans_CN">
+			<Text>守备官</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_DEFENDER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>拥有守备官的所有能力。</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_BUILDER_NAME" Language="zh_Hans_CN">
+			<Text>建筑师</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_BUILDER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>拥有建筑师的所有能力。</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_RESOURCE_MANAGER_NAME" Language="zh_Hans_CN">
+			<Text>统筹官</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_RESOURCE_MANAGER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>拥有统筹管的所有能力。</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_EDUCATOR_NAME" Language="zh_Hans_CN">
+			<Text>教育家</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_EDUCATOR_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>拥有教育家的所有能力。</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_MERCHANT_NAME" Language="zh_Hans_CN">
+			<Text>金融家</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_MERCHANT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>拥有金融家的所有能力。</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_CARDINAL_NAME" Language="zh_Hans_CN">
+			<Text>大主教</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_CARDINAL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>拥有大主教的所有能力。</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_NAME" Language="zh_Hant_HK">
+			<Text>{LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SELECTED_TITLE" Language="zh_Hant_HK">
+			<Text>{LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SELECTED_SHORT_TITLE" Language="zh_Hant_HK">
+			<Text>天才軍師</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SELECTED_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>{LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_DEFENDER_NAME" Language="zh_Hant_HK">
+			<Text>守備官</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_DEFENDER_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>擁有守備官的所有能力。 </Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_BUILDER_NAME" Language="zh_Hant_HK">
+			<Text>建築師</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_BUILDER_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>擁有建築師的所有能力。 </Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_RESOURCE_MANAGER_NAME" Language="zh_Hant_HK">
+			<Text>統籌官</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_RESOURCE_MANAGER_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>擁有統籌管的所有能力。 </Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_EDUCATOR_NAME" Language="zh_Hant_HK">
+			<Text>教育家</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_EDUCATOR_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>擁有教育家的所有能力。 </Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_MERCHANT_NAME" Language="zh_Hant_HK">
+			<Text>金融家</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_MERCHANT_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>擁有金融家的所有能力。 </Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_CARDINAL_NAME" Language="zh_Hant_HK">
+			<Text>大主教</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_CARDINAL_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>擁有大主教的所有能力。</Text>
+		</Row>
+		
+		
+		<Row Tag="LOC_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_NAME" Language="en_US">
+			<Text>{LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SELECTED_TITLE" Language="en_US">
+			<Text>{LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SELECTED_SHORT_TITLE" Language="en_US">
+			<Text>Genius Military Division</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SELECTED_DESCRIPTION" Language="en_US">
+			<Text>{LOC_TRAIT_GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_DEFENDER_NAME" Language="en_US">
+			<Text>Veteran Officer</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_DEFENDER_DESCRIPTION" Language="en_US">
+			<Text>Has all the abilities of the garrison. </Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_BUILDER_NAME" Language="en_US">
+			<Text>Architect</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_BUILDER_DESCRIPTION" Language="en_US">
+			<Text>Has all the abilities of an architect. </Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_RESOURCE_MANAGER_NAME" Language="en_US">
+			<Text>Management</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_RESOURCE_MANAGER_DESCRIPTION" Language="en_US">
+			<Text>Has all the capabilities of coordinating management. </Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_EDUCATOR_NAME" Language="en_US">
+			<Text>Educator</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_EDUCATOR_DESCRIPTION" Language="en_US">
+			<Text>Has all the abilities of an educator. </Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_MERCHANT_NAME" Language="en_US">
+			<Text>Financialist</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_MERCHANT_DESCRIPTION" Language="en_US">
+			<Text>Has all the abilities of a financier. </Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_CARDINAL_NAME" Language="en_US">
+			<Text>Archbishop</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EI_MELLOI_II_CARDINAL_DESCRIPTION" Language="en_US">
+			<Text>Have all the powers of the Archbishop.</Text>
+		</Row>
+
+	</LocalizedText>
+
+
+</GameData>

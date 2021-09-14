@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>415</build>
+		<revision>990</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ALEXANDER_256"/>
+			<m_ObjectName text="LEADER_FATE_ALEXANDER_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ALEXANDER_32"/>
+			<m_ObjectName text="LEADER_FATE_ALEXANDER_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ALEXANDER_45"/>
+			<m_ObjectName text="LEADER_FATE_ALEXANDER_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ALEXANDER_48"/>
+			<m_ObjectName text="LEADER_FATE_ALEXANDER_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ALEXANDER_50"/>
+			<m_ObjectName text="LEADER_FATE_ALEXANDER_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ALEXANDER_55"/>
+			<m_ObjectName text="LEADER_FATE_ALEXANDER_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ALEXANDER_64"/>
+			<m_ObjectName text="LEADER_FATE_ALEXANDER_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ALEXANDER_80"/>
+			<m_ObjectName text="LEADER_FATE_ALEXANDER_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ALEXANDER_BACKGROUND"/>
+			<m_ObjectName text="LEADER_FATE_ALEXANDER_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ALEXANDER_BACKGROUND_LOAD"/>
+			<m_ObjectName text="LEADER_FATE_ALEXANDER_BACKGROUND_LOAD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ALEXANDER_NEUTRAL"/>
+			<m_ObjectName text="LEADER_FATE_ALEXANDER_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ALEXANDER_NEUTRAL_2"/>
+			<m_ObjectName text="LEADER_FATE_ALEXANDER_NEUTRAL_2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_alexander_ei_melloi_ii"/>
+			<m_ObjectName text="Moment_alexander_ei_melloi_ii"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SELECTED"/>
+			<m_ObjectName text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_SELECTED"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FATE_ALEXANDER_CIV_45"/>
+			<m_ObjectName text="LEADER_FATE_ALEXANDER_CIV_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_NORMAL"/>
+			<m_ObjectName text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_NORMAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_BLACK22"/>
+			<m_ObjectName text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_BLACK22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_BLACK24"/>
+			<m_ObjectName text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_BLACK24"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_BLACK32"/>
+			<m_ObjectName text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_BLACK32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_BLACK64"/>
+			<m_ObjectName text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_BLACK64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_ORIGINAL22"/>
+			<m_ObjectName text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_ORIGINAL22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_ORIGINAL24"/>
+			<m_ObjectName text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_ORIGINAL24"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_ORIGINAL32"/>
+			<m_ObjectName text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_ORIGINAL32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_ORIGINAL64"/>
+			<m_ObjectName text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_ORIGINAL64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_YELLOW22"/>
+			<m_ObjectName text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_YELLOW22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_YELLOW24"/>
+			<m_ObjectName text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_YELLOW24"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_YELLOW32"/>
+			<m_ObjectName text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_YELLOW32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_YELLOW64"/>
+			<m_ObjectName text="GOVERNOR_ALEXANDER_FATE_EI_MELLOI_II_YELLOW64"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+
